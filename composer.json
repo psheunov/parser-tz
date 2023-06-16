@@ -1,0 +1,10 @@
+{
+    "name": "ahmedpseunov/parser",
+    "description": "HTML parser",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Src\\":"src"
+        }
+    }
+}
